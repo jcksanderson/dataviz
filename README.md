@@ -1,2 +1,3 @@
 # dataviz
-Favorite data vizualizations
+Some of my favorite data vizualizations from a number of different projects.
+Enjoy!
